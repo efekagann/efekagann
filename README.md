@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CRUDWebModalPopup](https://github.com/efekagann/CRUDWebModalPopup)
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m currently working on [MyHotelApiProject](https://github.com/efekagann/MyHotelApiProject)
 
