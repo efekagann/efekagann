@@ -3,16 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efekagann&label=Profile%20views&color=0e75b6&style=flat" alt="efekagann" /> </p>
 
-- 🔭 I’m currently working on [CRUDWebModalPopup](https://github.com/efekagann/CRUDWebModalPopup)
-
-- 🌱 I’m currently learning **C#**
-
-- 👯 I’m currently working on [MyHotelApiProject](https://github.com/efekagann/MyHotelApiProject)
-
-- 🤝 I’m currently working on [BackendBaseProject](https://github.com/efekagann/BackendBaseProject)
-
-- 👨‍💻 All of my projects are available at [https://github.com/efekagann](https://github.com/efekagann)
-
 - 💬 Ask me about **C#**
 
 - 📫 How to reach me **efekaan267@gmail.com**
